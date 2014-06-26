@@ -5,11 +5,12 @@ Bluetooth Control for ArcBotics Sparki Robot
 
 Programming by S. Davis and J. Davis
 Date: 06/2014
+'''
  ___           _      ___     _         _   _       
 |SJ \ __ ___ _(c)___ | _ \___| |__  ___| |_(_)__ ___
 | |) / _` \ V / (_-< |   / _ \ '_ \/ _ \  _| / _(_-<
 |___/\__,_|\_/|_/__/ |_|_\___/_.__/\___/\__|_\__/__/
-
+'''
 Copyright (c) 2014, SJ Davis Robotics (Steven E. Davis and Jonathan Davis)
 
 This program aims to demonstrate the full functionality of the ArcBotics Sparki robot
@@ -38,11 +39,11 @@ together!  If you like what we did or find this code useful for your own project
 consider donating to our education fund so that can continue to do projects like this and 
 pursue higher educational goals (hopefully, Jon will go to MIT!)
 
-## E-mail/PayPal Donations: donations@sjdavisrobotics.com
+E-mail/PayPal Donations: donations@sjdavisrobotics.com
 
-## BitCoin Donations: 1Hp3htmCAyiYNg52XXhoVtjB7VdkqaQDMq
+BitCoin Donations: 1Hp3htmCAyiYNg52XXhoVtjB7VdkqaQDMq
 
-** Thank you! ** 
+Thank you!
 Steve (dad) and Jonathan (7yo son) Davis
  
 Special thanks to the MIT App Inventor team!  I have been a professional electrical 
