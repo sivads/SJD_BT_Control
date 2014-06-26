@@ -1,7 +1,6 @@
-SJD_BT_Control
-==============
+##SJD_BT_Control
 
-Bluetooth Control for ArcBotics Sparki Robot
+###Bluetooth Control for ArcBotics Sparki Robot
 
 Programming by S. Davis and J. Davis
 Date: 06/2014
@@ -46,9 +45,9 @@ BitCoin Donations: 1Hp3htmCAyiYNg52XXhoVtjB7VdkqaQDMq
 **Thank you!**
 
 Steve (dad) and Jonathan (7yo son) Davis
-* 
-Special thanks to the MIT App Inventor team!  I have been a professional electrical 
+ 
+*Special thanks to the MIT App Inventor team!  I have been a professional electrical 
 engineer and programmer for over 30 years and the App Inventor platform is such an 
 excellent place for young and beginning programmers to learn and build applications that
-are useful and creative!  Thanks so much!! 
-*
+are useful and creative!  Thanks so much!!* 
+
